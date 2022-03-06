@@ -25,8 +25,13 @@
 [![website](./img/facebook-light.svg)](https://www.facebook.com/usual.khadka#gh-light-mode-only)
 [![website](./img/facebook-dark.svg)](https://www.facebook.com/usual.khadka#gh-dark-mode-only)
 
-<br />
-<br />
+---
+
+<details>
+<summary>:zap: My GitHub Stats</summary>
+
+<img align="left" alt="Ujjal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UzalKhadka&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</details>
 
 [website]: https://uzalkhadka.com
 [instagram]: https://www.instagram.com/uzalkhadkaa/
