@@ -11,9 +11,9 @@
 - 📫 How to reach me: khadkauzal@gmail.com
 - ⚡ Fun fact: I love to draw and read books
 
-### Connect with me:
+<!-- ### Connect with me: -->
 
-[![website](./img/globe-light.svg)](https://uzalkhadka.com#gh-light-mode-only)
+<!-- [![website](./img/globe-light.svg)](https://uzalkhadka.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://uzalkhadka.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ujjal-khadka-b65b19228/#gh-light-mode-only)
@@ -23,7 +23,7 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/uzalkhadkaa/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/facebook-light.svg)](https://www.facebook.com/usual.khadka#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://www.facebook.com/usual.khadka#gh-dark-mode-only)
+[![website](./img/facebook-dark.svg)](https://www.facebook.com/usual.khadka#gh-dark-mode-only) -->
 
 ---
 
