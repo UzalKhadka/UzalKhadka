@@ -9,7 +9,7 @@
 - 🤔 I’m looking for workplace opportunities that can help me Boost my Skills
 - 💬 Ask me about my Projects, Skills, and Interests
 - 📫 How to reach me: khadkauzal@gmail.com
-- ⚡ Fun fact: I love to draw and read books
+- ⚡ Fun fact: I love to draw landscapes, read books, and BAKE ITEMS
 
 <!-- ### Connect with me: -->
 
