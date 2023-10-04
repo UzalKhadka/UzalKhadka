@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my Portfolio Projects
 - 🌱 I’m currently learning Machine Learning and Data Science
-- 🥅 2022 Goals: Focus more on the Professionalism Aspects related to my Domains
+- 🥅 2023 Goals: Focus more on the Professionalism Aspects related to my Domains
 - 👯 I’m looking to collaborate on Open Source Projects that can help others learn
 - 🤔 I’m looking for workplace opportunities that can help me Boost my Skills
 - 💬 Ask me about my Projects, Skills, and Interests
